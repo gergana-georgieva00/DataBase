@@ -54,3 +54,12 @@ INSERT INTO Minions (Id, Name, Age, TownId) VALUES
 --Delete all the data from the Minions table using SQL query.
 
 DELETE FROM MINIONS
+
+
+--Problem 6. Drop All Tables
+--Delete all tables from the Minions database using SQL query.
+
+DELETE FROM MINIONS
+
+DROP TABLE MINIONS
+DROP TABLE TOWNS
