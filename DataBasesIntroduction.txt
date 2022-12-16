@@ -82,3 +82,7 @@ create table People
 
 --alter table People 
 --add constraint gender_val CHECK (Gender in ('m', 'f'));
+
+
+--Make Id primary key. Populate the table with exactly 5 records. Submit your CREATE and INSERT statements as Run queries & check DB
+insert into People
