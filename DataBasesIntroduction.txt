@@ -63,3 +63,22 @@ DELETE FROM MINIONS
 
 DROP TABLE MINIONS
 DROP TABLE TOWNS
+
+--Problem 7. Create Table People
+--Using SQL query create table People with columns
+
+create table People
+(
+	Id int primary key,
+	[Name] varchar(200) not null,
+	Picture image(2),
+	Height float(2),
+	[Weight] float(2),
+	Gender char(1) not null,
+	CHECK (Gender in ('m', 'f')
+	Birthdate date not null,
+	Biography nvarchar 
+)
+
+--alter table People 
+--add constraint gender_val CHECK (Gender in ('m', 'f'));
