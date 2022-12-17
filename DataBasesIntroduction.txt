@@ -86,4 +86,7 @@ create table People
 
 --Make Id primary key. Populate the table with only 5 records. Submit your CREATE and INSERT statements as Run queries & check DB.
 insert into People
-insert into People
+
+
+--Problem 8. Create Table Users
+--Using SQL query create table Users with columns:
