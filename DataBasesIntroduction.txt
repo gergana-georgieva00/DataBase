@@ -89,4 +89,5 @@ insert into People
 
 
 --Problem 8. Create Table Users
+
 --Using SQL query create table Users with columns:
