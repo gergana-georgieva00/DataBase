@@ -95,3 +95,6 @@ insert into People
 -- Problem 9. Change Primary Key
 Using SQL queries modify table Users from the previous task. First remove current primary key then create new primary key that would be the combination of fields Id and Username.
 
+--Problem 10.	Add Check Constraint
+Using SQL queries modify table Users. Add check constraint to ensure that the values in the Password field are at least 5 symbols long. 
+
