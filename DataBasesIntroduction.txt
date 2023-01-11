@@ -98,3 +98,4 @@ Using SQL queries modify table Users from the previous task. First remove curren
 --Problem 10.	Add Check Constraint
 Using SQL queries modify table Users. Add check constraint to ensure that the values in the Password field are at least 5 symbols long. 
 
+
